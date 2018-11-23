@@ -19,3 +19,13 @@
 		echo "Sorry Connection Failed:";
 	}
 ?>
+<HTML>
+	<head><title><h1>This  Login Page </h1></title>
+	</head>
+	<body>
+		<div>
+		<h3>
+			This is a Login Page For the User </h3>
+		</div>
+	</body>
+</HTML>
