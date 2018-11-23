@@ -1,0 +1,6 @@
+In this text file, we Actually do the Registrtion Works
+So that People can Login into the Login Website .
+It contains fields so that Users can do their Registration in order to get registere in our website.
+User Hs to Enter the basic details such as name, contact number,addresss.
+And lso has to set the pssword too.
+Inorder to get logged in the Login Pge.
